@@ -7,7 +7,7 @@
 
 ## 1. Project Overview
 
-This project focuses on developing a robust machine learning model to predict an individual's risk of diabetes based on key health and lifestyle factors. The core of the project is a Neural Network built with TensorFlow and Keras, which has been carefully optimized for both accuracy and generalization.
+This project focuses on developing a machine learning model to predict an individual's risk of diabetes based on key health and lifestyle factors. The core of the project is a Neural Network built with TensorFlow and Keras, which has been carefully optimized for both accuracy and generalization.
 
 The development process involved several key stages:
 - Initial data loading and preprocessing.
